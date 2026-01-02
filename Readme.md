@@ -70,11 +70,18 @@ Comportements des voitures *(par couleur)* :
 
 ## 📁 Structure du Projet
 src/main/java/com/road/rampage/
+
 ├── core/ # Singleton + Observer
+
 ├── state/ # State Pattern
+
 ├── player/ # PlayerState
+
 ├── character/ # Decorator
+
 ├── powerup/ # TimedDecorator
+
 ├── world/ # Composite + Strategy
+
 └── Main.java
 
